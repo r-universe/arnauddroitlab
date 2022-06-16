@@ -1,0 +1,14 @@
+[
+  {
+    "package": "consensusSeekeR"
+  },
+  {
+    "package": "metagene2"
+  },
+  {
+    "package": "nucleoSim"
+  },
+  {
+    "package": "RJMCMCNucleosomes"
+  }
+]

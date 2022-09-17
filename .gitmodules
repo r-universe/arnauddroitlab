@@ -18,8 +18,3 @@
 	url = https://github.com/arnauddroitlab/nucleosim
 	shallow = true
 	registered = true
-[submodule "RJMCMCNucleosomes"]
-	path = RJMCMCNucleosomes
-	url = https://github.com/arnauddroitlab/rjmcmcnucleosomes
-	shallow = true
-	registered = true

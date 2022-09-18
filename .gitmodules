@@ -13,8 +13,3 @@
 	url = https://github.com/arnauddroitlab/metagene2
 	shallow = true
 	registered = true
-[submodule "nucleoSim"]
-	path = nucleoSim
-	url = https://github.com/arnauddroitlab/nucleosim
-	shallow = true
-	registered = true
